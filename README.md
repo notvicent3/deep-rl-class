@@ -1,6 +1,6 @@
 # [Curso de aprendizaje por refuerzo profundo de The Hugging Face🤗 (v2.0)](https://huggingface.co/deep-rl-course/unit0/introduction)
 
-<img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/unit0/thumbnail.jpg" alt="Thumbnail"/>
+<img src="https://github.com/notvicent3/deep-rl-class/assets/132854638/855f5239-8ee8-46db-a4d7-aaaa236825a2" alt="Thumbnail"/>
 
 Si te gusta el curso, no dudes en regalar una **⭐ estrella a este repositorio. Eso nos ayuda mucho 🤗**.
 
