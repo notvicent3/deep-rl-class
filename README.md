@@ -2,9 +2,9 @@
 
 <img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/unit0/thumbnail.jpg" alt="Thumbnail"/>
 
-If you like the course, don't hesitate to **⭐ star this repository. This helps us 🤗**.
+Si te gusta el curso, no dudes en regalar una **⭐ estrella a este repositorio. Eso nos ayuda mucho 🤗**.
 
-This repository contains the Deep Reinforcement Learning Course mdx files and notebooks. **The website is here**: https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt
+Este repositorio contiene el Curso de aprendizaje por refuerzo profundo, archivos mdx y blocs de notas de Jupyter. **La web está aquí**: https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt
 
 - El sumario 📚: https://simoninithomas.github.io/deep-rl-course
 
